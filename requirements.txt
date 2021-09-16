@@ -6,4 +6,3 @@ pillow==8.0.1
 base58==2.1.0
 bs4=bs4
 requests== 2.24.0
-time==
